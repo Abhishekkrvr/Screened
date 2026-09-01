@@ -646,7 +646,7 @@ export default function Home() {
       {/* FOOTER */}
 
       <footer className="mx-auto max-w-5xl border-t border-neutral-200 py-6 text-center text-xs text-neutral-400">
-        SCREENED. · Your time in perspective.
+        <span style={{ fontStyle: 'italic', color: '#e63946' }}>S</span>CREENED. · Your time in perspective.
       </footer>
     </main>
   );
